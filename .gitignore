@@ -1,0 +1,5 @@
+This file is used to store the secret file which you don't want others to see what you want to hide
+
+While you commit your change in the branch you will push it to the main branch 
+and you dont want some files to go online and visible to everyone so This
+".gitignore" file is used to do that work which will not allow everyone to view whats inside this file.

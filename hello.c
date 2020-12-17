@@ -1,6 +1,6 @@
-#include <iostream.h>
+#include <stdio.h>
 
-void main ()
-{
-    cout >> ;
+int main() {
+    printf("Hello World");
+    return 0;
 }
