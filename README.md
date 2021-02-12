@@ -10,7 +10,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 
 ~ Fork this project to your profile .
 
-~  Create branch with your github username, ex: `add-mazipan.js`.
+~  Create branch with your github username, ex: `add-name.js`.
         NOTE:- **Never use the `master` branch to create PULL REQUEST**.
 
 ~  After creating branch you have to create  a file with whatever name you want to
